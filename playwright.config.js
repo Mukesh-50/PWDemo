@@ -59,7 +59,7 @@ const config = {
         screenshot:"on",
         video:"on",
         trace:"on",
-        headless:false
+        headless:true
         
       },
     },
@@ -72,7 +72,7 @@ const config = {
         screenshot:"on",
         video:"on",
         trace:"on",
-        headless:false
+        headless:true
       },
     },
 
