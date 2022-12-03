@@ -8,7 +8,7 @@
     "allTestInChrome":"npx playwright test --project=chromium",
     "allTestInFirefox":"npx playwright test --project=firefox",
     "allTestInWebKit":"npx playwright test --project=webkit",
-    "smoke":"npx playwright test --project=chromium --grep=@Smoke"
+    "smoke": "npx playwright test --project=chromium --grep=@Smoke"
   },
   "keywords": [],
   "author": "",

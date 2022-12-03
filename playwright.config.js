@@ -52,7 +52,7 @@ const config = {
 
   /* Configure projects for major browsers */
   projects: [
- /*   {
+   {
       name: 'chromium',
       use: {
         ...devices['Desktop Chrome'],
@@ -87,7 +87,7 @@ const config = {
       },
     },
     
-    */
+    
 
     /* Test against mobile viewports. */
     // {
