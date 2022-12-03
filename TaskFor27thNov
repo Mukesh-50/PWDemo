@@ -1,0 +1,7 @@
+Create json file and have 5 json record
+
+Use POM to create 5 courses
+
+Pass baseURL in config file
+
+From cmd execute npm run ddt and it should execute above test
